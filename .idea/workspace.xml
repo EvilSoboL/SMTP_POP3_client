@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eea90f69-64ba-48e0-a9fe-ece3fae631d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SMTP_client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POP3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SMTP/main.py" afterDir="false" />
+    <list default="true" id="eea90f69-64ba-48e0-a9fe-ece3fae631d8" name="Changes" comment="SMTP и POP3">
+      <change afterPath="$PROJECT_DIR$/SMTP_POP3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "EvilSoboL"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EvilSoboL/SMTP_POP3_client.git",
+    "accountId": "f5418290-6a4a-477e-91ff-8bcfc428c8fb"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -95,6 +101,19 @@
       <option name="presentableId" value="Default" />
       <updated>1731497820388</updated>
     </task>
+    <task id="LOCAL-00001" summary="SMTP и POP3">
+      <option name="closed" value="true" />
+      <created>1731750461241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731750461241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SMTP и POP3" />
+    <option name="LAST_COMMIT_MESSAGE" value="SMTP и POP3" />
   </component>
 </project>
